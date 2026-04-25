@@ -84,27 +84,26 @@ To become a skilled AI/ML Engineer and build production-ready intelligent system
 - 💼 LinkedIn: (https://www.linkedin.com/in/uzma-gul-183a06246/)  
 - 📧 Email: (uzmagull456@gmail.com)  
 
-## 🏆 Featured Projects  
-
+🏆 Featured Projects
 📊 Machine Learning Prediction System
 
 Completed | Supervised Learning
 
-🧠 Developing predictive ML models for data-driven decision making
-⚙️ Performing data preprocessing, feature engineering, and model optimization
-📊 Generating insights through data visualization and performance analysis
-🔬 Experimenting with multiple algorithms to improve accuracy and generalization
+🧠 Developed predictive ML models for data-driven decision making
+⚙️ Performed data preprocessing, feature engineering, and model optimization
+📊 Generated insights using data visualization and performance evaluation
+🔬 Compared multiple algorithms to improve accuracy and generalization
 
 Tech Stack: Python, Pandas, Scikit-learn, Matplotlib
 
 🛒 Recommendation System (E-commerce)
 
-Planned | Machine Learning Recommender Systems
+Planned | Recommender Systems
 
-🛍️ Built a recommendation engine to suggest products based on user behavior
-📊 Implemented collaborative filtering & content-based filtering
-🧠 Improved user experience through personalized recommendations
-📈 Optimized model performance for better accuracy and engagement
+🛍️ Designing a recommendation engine to suggest products based on user behavior
+📊 Implementing collaborative filtering and content-based techniques
+🧠 Enhancing user experience through personalized recommendations
+📈 Focusing on improving engagement and prediction accuracy
 
 Tech Stack: Python, Pandas, Scikit-learn
 
@@ -112,9 +111,9 @@ Tech Stack: Python, Pandas, Scikit-learn
 
 Completed | NLP Classification
 
-📧 Developed a model to classify emails as Spam or Not Spam
-⚙️ Applied text preprocessing, feature extraction, and classification algorithms
-📊 Evaluated performance using accuracy, precision, and recall
-🚀 Built a lightweight and efficient prediction system
+📧 Built a model to classify emails as Spam or Not Spam
+⚙️ Applied text preprocessing and feature extraction techniques
+📊 Evaluated model using accuracy, precision, and recall metrics
+🚀 Developed a lightweight system for fast and efficient predictions
 
 Tech Stack: Python, NLP, Scikit-learn
