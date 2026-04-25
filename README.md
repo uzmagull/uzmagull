@@ -82,10 +82,6 @@
 - 🌐 Modern Frontend Web Apps  
 - 📊 Machine Learning Projects  
 
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifi123&show_icons=true&theme=default)
-
 ---
 
 ## 🎯 Goal  
