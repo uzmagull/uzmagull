@@ -84,7 +84,11 @@ To become a skilled AI/ML Engineer and build production-ready intelligent system
 - 💼 LinkedIn: (https://www.linkedin.com/in/uzma-gul-183a06246/)  
 - 📧 Email: (uzmagull456@gmail.com)  
 
+---
+
 🏆 Featured Projects
+---
+
 📊 Machine Learning Prediction System
 
 Completed | Supervised Learning
