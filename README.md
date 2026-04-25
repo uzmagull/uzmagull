@@ -96,6 +96,8 @@ Completed | Supervised Learning
 
 Tech Stack: Python, Pandas, Scikit-learn, Matplotlib
 
+---
+
 🛒 Recommendation System (E-commerce)
 
 Planned | Recommender Systems
@@ -107,6 +109,8 @@ Planned | Recommender Systems
 
 Tech Stack: Python, Pandas, Scikit-learn
 
+---
+
 🧠 Spam Email Detection System
 
 Completed | NLP Classification
@@ -117,3 +121,5 @@ Completed | NLP Classification
 🚀 Developed a lightweight system for fast and efficient predictions
 
 Tech Stack: Python, NLP, Scikit-learn
+
+---
