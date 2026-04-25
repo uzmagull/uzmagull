@@ -28,13 +28,6 @@
 * NLP
 * TensorFlow / Scikit-learn
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=uzmagull\&show_icons=true\&theme=radical)
-
----
 
 ## 📫 Connect
 
