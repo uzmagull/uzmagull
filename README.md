@@ -86,62 +86,35 @@ To become a skilled AI/ML Engineer and build production-ready intelligent system
 
 ## 🏆 Featured Projects  
 
-### 🤖 TDF Robotics Software Project  
-`Status: Active` | `ROS2` `C++` `Python`  
+📊 Machine Learning Prediction System
 
-- 🤖 Developing modular robotics software for system integration  
-- 🔧 Working with ROS/ROS2 for communication between components  
-- 🐧 Using Linux/Ubuntu environment with CMake build system  
-- 🔄 Implementing Git workflows and Docker for development  
-- ⚡ Writing Bash scripts for automation and deployment  
+Completed | Supervised Learning
 
-*Tech Stack: Python, C++, ROS2, CMake, Docker, Git, Linux/Ubuntu* 
+🧠 Developing predictive ML models for data-driven decision making
+⚙️ Performing data preprocessing, feature engineering, and model optimization
+📊 Generating insights through data visualization and performance analysis
+🔬 Experimenting with multiple algorithms to improve accuracy and generalization
 
-### 🤖 AI-Powered LLM Chat Application  
-`Status: In Progress` | `LLM` `React` `TypeScript`  
+Tech Stack: Python, Pandas, Scikit-learn, Matplotlib
 
-- 💬 Built an intelligent chatbot using Large Language Models  
-- 🔗 Integrated frontend (React + TypeScript) with AI backend  
-- ⚡ Real-time responses with optimized API handling  
-- 🧠 Context-aware conversations with prompt engineering  
+🛒 Recommendation System (E-commerce)
 
-*Tech Stack: React, TypeScript, OpenAI API, Node.js*  
+Planned | Machine Learning Recommender Systems
 
----
+🛍️ Built a recommendation engine to suggest products based on user behavior
+📊 Implemented collaborative filtering & content-based filtering
+🧠 Improved user experience through personalized recommendations
+📈 Optimized model performance for better accuracy and engagement
 
-### 🔐 Verify Email System (Frontend)  
-`Status: Completed` | `Frontend` `React`  
+Tech Stack: Python, Pandas, Scikit-learn
 
-- ✉️ Designed and developed a modern email verification UI  
-- 🎨 Clean and responsive interface with user-friendly experience  
-- 🔄 Integrated API handling for verification flow  
-- ⚡ Optimized performance and UI interactions  
+🧠 Spam Email Detection System
 
-*Tech Stack: React, TypeScript, Vite*  
+Completed | NLP Classification
 
----
+📧 Developed a model to classify emails as Spam or Not Spam
+⚙️ Applied text preprocessing, feature extraction, and classification algorithms
+📊 Evaluated performance using accuracy, precision, and recall
+🚀 Built a lightweight and efficient prediction system
 
-### 📊 Machine Learning Prediction System  
-`Status: In Progress` | `ML` `Python`  
-
-- 🧠 Built ML models for prediction and data analysis  
-- 📊 Data preprocessing, feature engineering, and model training  
-- 📈 Visualization of insights using Python libraries  
-- ⚙️ Experimenting with multiple ML algorithms  
-
-*Tech Stack: Python, Pandas, Scikit-learn, Matplotlib*  
-
----
-
-### 🌐 AI + Frontend Integration Project  
-`Status: Planned` | `AI` `Full Stack`  
-
-- 🤖 Integrating LLMs into real-world web applications  
-- 💻 Frontend with React + TypeScript (Vite)  
-- 🔗 Backend APIs for AI processing  
-- ☁️ Future deployment using AWS  
-
-*Tech Stack: React, TypeScript, Node.js, LLM APIs, AWS*  
-
-
-✨ "Turning data into intelligence"
+Tech Stack: Python, NLP, Scikit-learn
