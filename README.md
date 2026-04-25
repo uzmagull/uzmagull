@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Uzma Gul
 
-<!--
-**uzmagull/uzmagull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI & Machine Learning Enthusiast
+💻 Passionate about NLP, Deep Learning & Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Working on AI-based real-world projects
+* 🌱 Learning Advanced NLP & Deep Learning
+* 💡 Interested in building intelligent systems
+
+---
+
+## 🧠 Featured Projects
+
+* 📰 Fake News Detection (NLP + BiLSTM)
+* 🤖 AI Chatbot (Transformers)
+* 📊 Sentiment Analysis System
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* Machine Learning
+* NLP
+* TensorFlow / Scikit-learn
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=uzmagull\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect
+
+* LinkedIn: (add link)
+* Email: (add email)
+
+---
+
+✨ "Turning data into intelligence"
