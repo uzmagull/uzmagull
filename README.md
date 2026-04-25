@@ -7,9 +7,10 @@
 
 ## 🚀 About Me
 
-* 🔭 Working on AI-based real-world projects
-* 🌱 Learning Advanced NLP & Deep Learning
-* 💡 Interested in building intelligent systems
+🤖 AI/ML Engineer focused on NLP, Deep Learning & LLMs
+💡 Passionate about building real-world intelligent systems
+📊 Strong experience in Machine Learning pipelines & data-driven solutions
+🚀 Continuously learning and applying modern AI technologies in production
 
 ---
 
@@ -34,11 +35,11 @@
 
 ## 🌟 Current Focus  
 
-- 🤖 Building AI-powered applications using LLMs  
-- 💻 Developing modern frontend applications with React + TypeScript  
-- 📊 Creating end-to-end Machine Learning projects  
-- ☁️ Learning AWS for cloud-based deployment  
-- 🚀 Exploring DevOps practices (CI/CD, automation, scalability)  
+🤖 Developing LLM-based applications (Chatbots, AI tools)
+🌐 Building modern frontend apps (React + TypeScript)
+📊 Creating end-to-end ML pipelines
+☁️ Exploring AWS deployment & cloud architectures
+⚙️ Implementing DevOps practices (CI/CD, automation) 
 
 ---
 
