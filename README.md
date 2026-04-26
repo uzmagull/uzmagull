@@ -8,8 +8,11 @@
 ## 🚀 About Me
 
 🤖 AI/ML Engineer focused on NLP, Deep Learning & LLMs
+
 💡 Passionate about building real-world intelligent systems
+
 📊 Strong experience in Machine Learning pipelines & data-driven solutions
+
 🚀 Continuously learning and applying modern AI technologies in production
 
 ---
