@@ -39,9 +39,13 @@
 ## 🌟 Current Focus  
 
 🤖 Developing LLM-based applications (Chatbots, AI tools)
+
 🌐 Building modern frontend apps (React + TypeScript)
+
 📊 Creating end-to-end ML pipelines
+
 ☁️ Exploring AWS deployment & cloud architectures
+
 ⚙️ Implementing DevOps practices (CI/CD, automation) 
 
 ---
