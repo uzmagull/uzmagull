@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Uzma Gul
 
 🤖 AI & Machine Learning Enthusiast
+
 💻 Passionate about NLP, Deep Learning & Data Science
+
 🚀 Building scalable AI solutions and real-world machine learning applications
+
 📊 Focused on data-driven problem solving and intelligent system design
+
 🧠 Exploring LLMs, Big Data technologies, and modern AI architectures
 
 ---
