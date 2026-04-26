@@ -75,6 +75,14 @@
 
 ---
 
+### 🗄️ Big Data Technologies  
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-FFCC00?style=for-the-badge)
+![MapReduce](https://img.shields.io/badge/MapReduce-FF6F00?style=for-the-badge)
+![YARN](https://img.shields.io/badge/YARN-0099CC?style=for-the-badge)
+![HiveQL](https://img.shields.io/badge/HiveQL-FDEE21?style=for-the-badge)
+
 ## 🚀 What I Build  
 - 🤖 LLM-based Applications (Chatbots, AI tools)  
 - 🌐 Modern Frontend Web Apps  
